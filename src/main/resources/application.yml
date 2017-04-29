@@ -1,0 +1,10 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    show-sql: true
+    generate-ddl: true
+  datasource:
+    url: jdbc:mysql://localhost:3306/demo?autoReconnect=true&useUnicode=true&CharSet=UTF-8&characterEncoding=UTF-8
+    username: root
+    password: igdefault
