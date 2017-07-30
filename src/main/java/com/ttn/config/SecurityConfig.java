@@ -8,9 +8,6 @@ import org.springframework.security.config.annotation.web.configuration.EnableWe
 import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
 import org.springframework.stereotype.Controller;
 
-/**
- * Created by diwakar on 29/04/17.
- */
 
 @Configuration
 @EnableWebSecurity(debug = true)
