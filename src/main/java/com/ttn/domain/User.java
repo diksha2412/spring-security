@@ -1,12 +1,10 @@
 package com.ttn.domain;
 
-//import javax.persistence.Entity;
+import javax.persistence.Entity;
 
 import javax.persistence.*;
 
-/**
- * Created by diwakar on 29/04/17.
- */
+
 @Entity
 public class User {
 

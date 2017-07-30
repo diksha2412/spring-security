@@ -11,9 +11,7 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.List;
 
-/**
- * Created by diwakar on 29/04/17.
- */
+
 public class UserDetailsImpl implements UserDetails {
 
     private User user;
